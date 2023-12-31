@@ -1,0 +1,345 @@
+﻿@page "/"
+@inject ISnackbar Snackbar
+
+<PageTitle>X27: Home</PageTitle>
+
+<MudPaper Class="pa-16 ma-5" Elevation="3">
+    <div>
+    <MudCarousel Class="mud-width-full pa-4 mb-6" Style="height:400px;" ShowArrows="@arrows" ShowBullets="@bullets" AutoCycle="@autocycle" TData="object" >
+    <MudCarouselItem Transition="transition" Style="@($"color:{Colors.Grey.Lighten5};")">
+    <div class="d-flex" style="height:100%">
+    <MudImage Src="index-slides/Picture.jpg" Height="350" Class="rounded-lg mx-auto my-auto"/>
+    </div>
+    </MudCarouselItem>
+    <MudCarouselItem Transition="transition" Style="@($"color:{Colors.Grey.Lighten5};")">
+    <div class="d-flex" style="height:100%">
+    <MudImage Src="index-slides/gettingready.jpg" Height="350" Class="rounded-lg mx-auto my-auto"/>
+    </div>
+    </MudCarouselItem>
+    <MudCarouselItem Transition="transition" Style="@($"color:{Colors.Grey.Lighten5};")">
+    <div class="d-flex" style="height:100%">
+    <MudImage Src="index-slides/epitec.jpg" Height="350" Class="rounded-lg mx-auto my-auto"/>
+    </div>
+    </MudCarouselItem>
+    <MudCarouselItem Transition="transition" Style="@($"color:{Colors.Grey.Lighten5};")">
+    <div class="d-flex" style="height:100%">
+    <MudImage Src="index-slides/duringwork.jpg" Height="350" Class="rounded-lg mx-auto my-auto"/>
+    </div>
+    </MudCarouselItem>
+    <MudCarouselItem Transition="transition" Style="@($"color:{Colors.Grey.Lighten5};")">
+    <div class="d-flex" style="height:100%">
+    <MudImage Src="index-slides/afterwork.jpg" Height="350" Class="rounded-lg mx-auto my-auto"/>
+    </div>
+    </MudCarouselItem>
+    </MudCarousel>
+    </div>
+    <MudCard Class="pa-4 mb-2 d-flex justify-center flex-grow-1 gap-4" Elevation="2" >
+        <MudFab Href="mailto:dacikbas@umich.edu?subject=Interview%20Selection%20Notice&body=Dear%20[Recipient's%20Name],%0A%0AWe%20are%20pleased%20to%20inform%20you%20that%20you%20have%20been%20selected%20for%20an%20interview%20with%20[Company%20Name].%20The%20interview%20details%20are%20as%20follows:%0A%0ADate:%20[Interview%20Date]%0ATime:%20[Interview%20Time]%0ALocation:%20[Interview%20Location]%0A%0APlease%20confirm%20your%20availability%20for%20the%20interview.%0A%0AThank%20you.%0A%0ARegards,%0A[Your%20Name]%0A[Company%20Name]" Color="Color.Success" Icon="@Icons.Filled.Check" />
+        <MudFab Href="Contact" Color="Color.Info" Icon="@Icons.Filled.ContactMail"/>
+        <MudFab Color="Color.Error" Icon="@Icons.Filled.Close" Href="mailto:dacikbas@umich.edu?subject=Job%20Application%20Status%3A%20Rejection&body=Dear%20[Recipient's%20Name],%0A%0AWe%20appreciate%20your%20interest%20in%20the%20position%20at%20[Company%20Name].%20After%20careful%20consideration,%20we%20regret%20to%20inform%20you%20that%20we%20have%20decided%20not%20to%20move%20forward%20with%20your%20application%20at%20this%20time.%0A%0AWe%20received%20many%20strong%20applications%20and%20after%20a%20thorough%20review,%20we%20have%20selected%20candidates%20whose%20skills%20and%20experience%20closely%20match%20our%20requirements.%0A%0AWe%20appreciate%20the%20time%20and%20effort%20you%20put%20into%20your%20application%20and%20wish%20you%20all%20the%20best%20in%20your%20job%20search.%0A%0AThank%20you%20again%20for%20your%20interest%20in%20[Company%20Name].%0A%0ARegards,%0A[Your%20Name]%0A[Company%20Name]" />
+    </MudCard>
+     <MudCard Elevation="2">
+                <MudCardHeader>
+            <CardHeaderContent>
+                <MudText>
+                    <h1><strong>Deniz K Acikbas</strong></h1>
+                </MudText>
+                <MudText>
+                    <MudIcon Icon="@Icons.Material.Filled.Home" Size="Size.Small" /> Lives in Dearborn, Michigan
+                </MudText>
+                <MudText>
+                    <MudIcon Icon="@Icons.Material.Filled.Person" Size="Size.Small" /> Full Stack Web Developer
+                </MudText>
+                <MudText>
+                    <MudIcon Icon="@Icons.Material.Filled.Work" Size="Size.Small" /> Seeking to expand to cross-platform software development through an internship
+                </MudText>
+                <MudText>
+                    <MudIcon Icon="@Icons.Material.Filled.School" Size="Size.Small" /> Computer Science Student at University of Michigan-Dearborn
+                </MudText>
+                <MudText>
+                    <MudIcon Icon="@Icons.Material.Filled.CalendarMonth" Size="Size.Small" /> Expected to graduate in April 2025
+                </MudText>
+            </CardHeaderContent>
+                        </MudCardHeader>
+                        </MudCard>
+                        <MudCard Elevation="2" Class="mt-4 pa-4">
+                    <MudText Class="mb-2"><strong>My Skills</strong></MudText>
+                    <div>
+            <MudChip Href="https://learn.microsoft.com/en-us/dotnet/csharp/" Variant="Variant.Text">C#</MudChip>
+            <MudChip Href="https://www.java.com/en/" Variant="Variant.Text">Java</MudChip>
+            <MudChip Href="https://www.python.org/" Variant="Variant.Text">Python</MudChip>
+            <MudChip Href="https://www.javascript.com/" Variant="Variant.Text">JavaScript</MudChip>
+            <MudChip Href="https://www.php.net/" Variant="Variant.Text">PHP</MudChip>
+            <MudChip Href="https://www.w3schools.com/html/" Variant="Variant.Text">HTML</MudChip>
+            <MudChip Href="https://www.w3schools.com/css/" Variant="Variant.Text">CSS</MudChip>
+            <MudChip Href="https://learn.microsoft.com/en-us/dotnet/desktop/wpf/xaml/?view=netdesktop-7.0" Variant="Variant.Text">XAML</MudChip>
+            <MudChip Href="https://www.json.org/json-en.html" Variant="Variant.Text">JSON</MudChip>
+            <MudChip Href="https://www.microsoft.com/en-us/sql-server" Variant="Variant.Text">Microsoft SQL Server</MudChip>
+            <MudChip Href="https://www.mysql.com/" Variant="Variant.Text">MySQL</MudChip>
+            <MudChip Href="https://www.postgresql.org/" Variant="Variant.Text">PostgreSQL</MudChip>
+            <MudChip Href="https://learn.microsoft.com/en-us/ef/core/" Variant="Variant.Text">Entity Framework Core</MudChip>
+            <MudChip Href="https://learn.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core?view=aspnetcore-7.0" Variant="Variant.Text">ASP.NET Core</MudChip>
+            <MudChip Href="https://dotnet.microsoft.com/en-us/apps/aspnet/apis" Variant="Variant.Text">ASP.NET Web API</MudChip>
+            <MudChip Href="https://www.postman.com/" Variant="Variant.Text">Postman</MudChip>
+            <MudChip Href="https://swagger.io/" Variant="Variant.Text">Swagger</MudChip>
+            <MudChip Href="https://xunit.net/" Variant="Variant.Text">xUnit</MudChip>
+            <MudChip Href="https://junit.org/" Variant="Variant.Text">JUnit</MudChip>
+            <MudChip Href="https://www.jenkins.io/" Variant="Variant.Text">Jenkins</MudChip>
+            <MudChip Href="https://katalon.com/" Variant="Variant.Text">Katalon Studio</MudChip>
+            <MudChip Href="https://react.dev/" Variant="Variant.Text">React</MudChip>
+            <MudChip Href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" Variant="Variant.Text">Blazor</MudChip>
+            <MudChip Href="https://learn.microsoft.com/en-us/windows/uwp/get-started/universal-application-platform-guide" Variant="Variant.Text">Universal Windows Platform</MudChip>
+            <MudChip Href="https://learn.microsoft.com/en-us/dotnet/desktop/wpf/overview/?view=netdesktop-7.0" Variant="Variant.Text">Windows Presentation Foundation</MudChip>
+            <MudChip Href="https://learn.microsoft.com/en-us/dotnet/desktop/winforms/overview/?view=netdesktop-7.0" Variant="Variant.Text">Windows Forms</MudChip>
+            <MudChip Href="https://unity.com/" Variant="Variant.Text">Unity</MudChip>
+            <MudChip Href="https://www.autodesk.com/products/3ds-max/overview?term=1-YEAR&tab=subscription&plc=3DSMAX" Variant="Variant.Text">3DS Max</MudChip>
+            <MudChip Href="https://www.autodesk.com/products/inventor/overview?term=1-YEAR&tab=subscription&plc=INVPROSA" Variant="Variant.Text">Autodesk Inventor</MudChip>
+            <MudChip Href="https://www.autodesk.com/products/autocad/overview?term=1-YEAR&tab=subscription" Variant="Variant.Text">AutoCAD</MudChip>
+            <MudChip Href="https://helpx.adobe.com/support/xd.html" Variant="Variant.Text">Adobe XD</MudChip>
+            <MudChip Href="https://www.adobe.com/ca/products/photoshop/landpa.html?sdid=KKQIN&mv=search&kw=photoshop&ef_id=Cj0KCQjwi7GnBhDXARIsAFLvH4nBFWlP3eBaFSxEI4BDClNFQ991kk6OWuGB3BLwHCi88gM0jjxhDFYaArxoEALw_wcB:G:s&s_kwcid=AL!3085!3!660389462551!e!!g!!photoshop!20219514620!149761557796&gclid=Cj0KCQjwi7GnBhDXARIsAFLvH4nBFWlP3eBaFSxEI4BDClNFQ991kk6OWuGB3BLwHCi88gM0jjxhDFYaArxoEALw_wcB" Variant="Variant.Text">Adobe Photoshop</MudChip>
+            <MudChip Href="https://www.adobe.com/products/illustrator/campaign/pricing.html?sdid=KKQML&mv=search&ef_id=Cj0KCQjwi7GnBhDXARIsAFLvH4lcja1dJtnXJ5qKAuUDmgKpY3ScD0DyfyYRdZgxDptOVPiyCjbEWokaArmtEALw_wcB:G:s&s_kwcid=AL!3085!3!356518781933!e!!g!!illustrator!1711729586!70905759350&gclid=Cj0KCQjwi7GnBhDXARIsAFLvH4lcja1dJtnXJ5qKAuUDmgKpY3ScD0DyfyYRdZgxDptOVPiyCjbEWokaArmtEALw_wcB" Variant="Variant.Text">Adobe Illustrator</MudChip>
+            <MudChip Href="https://git-scm.com/" Variant="Variant.Text">Git</MudChip>
+            <MudChip Href="https://azure.microsoft.com/en-us/free/search/?ef_id=_k_Cj0KCQjwi7GnBhDXARIsAFLvH4mTivHqulBocyIP86kwmr33NV3QJoUnxe9dPTNKb0jXCvW34FPSyPcaAqHdEALw_wcB_k_&OCID=AIDcmmfq865whp_SEM__k_Cj0KCQjwi7GnBhDXARIsAFLvH4mTivHqulBocyIP86kwmr33NV3QJoUnxe9dPTNKb0jXCvW34FPSyPcaAqHdEALw_wcB_k_&gad=1&gclid=Cj0KCQjwi7GnBhDXARIsAFLvH4mTivHqulBocyIP86kwmr33NV3QJoUnxe9dPTNKb0jXCvW34FPSyPcaAqHdEALw_wcB" Variant="Variant.Text">Azure</MudChip>
+            <MudChip Href="https://www.atlassian.com/software/confluence?&aceid=&adposition=&adgroup=138055852541&campaign=18312196225&creative=656429477698&device=c&keyword=confluence&matchtype=e&network=g&placement=&ds_kids=p72969649871&ds_e=GOOGLE&ds_eid=700000001542923&ds_e1=GOOGLE&gad=1&gclid=Cj0KCQjwi7GnBhDXARIsAFLvH4n_Hz93xe9O_edpM_jcQS_shRwxZMvJCkzL9gOITvOQOMLmxBDSGSwaAiJyEALw_wcB&gclsrc=aw.ds" Variant="Variant.Text">Confluence</MudChip>
+            <MudChip Href="https://www.atlassian.com/software/jira?&aceid=&adposition=&adgroup=136973856930&campaign=18440774103&creative=639487383004&device=c&keyword=jira&matchtype=e&network=g&placement=&ds_kids=p73335831609&ds_e=GOOGLE&ds_eid=700000001558501&ds_e1=GOOGLE&gclid=Cj0KCQjwi7GnBhDXARIsAFLvH4muwYIiX183tOE0opil4Ivj9v1UhqsbNz0V9sdLQOGkrP4C5V4gLGcaAmrpEALw_wcB&gclsrc=aw.ds" Variant="Variant.Text">Jira</MudChip>
+            <MudChip Href="https://trello.com/" Variant="Variant.Text">Trello</MudChip>
+            <MudChip Href="https://www.nuget.org/" Variant="Variant.Text">NuGet</MudChip>
+            <MudChip Href="https://www.npmjs.com/" Variant="Variant.Text">NPM</MudChip>
+            <MudChip Href="https://learn.microsoft.com/en-us/powershell/" Variant="Variant.Text">Powershell</MudChip>
+            <MudChip Href="https://www.gnu.org/software/bash/" Variant="Variant.Text">Bash</MudChip>
+            <MudChip Href="https://www.freedos.org/" Variant="Variant.Text">DOS</MudChip>
+            <MudChip Href="https://www.microsoft.com/en-us/microsoft-365/project/project-management" Variant="Variant.Text">Microsoft Project</MudChip>
+            <MudChip Href="https://www.microsoft.com/en-us/microsoft-365/visio/flowchart-software" Variant="Variant.Text">Microsoft Visio</MudChip>
+            <MudChip Href="https://sparxsystems.com/products/ea/index.html" Variant="Variant.Text">Enterprise Architect</MudChip>
+            <MudChip Href="https://visualstudio.microsoft.com/" Variant="Variant.Text">Microsoft Visual Studio</MudChip>
+            <MudChip Href="https://code.visualstudio.com/" Variant="Variant.Text">Visual Studio Code</MudChip>
+            <MudChip Href="https://www.eclipse.org/ide/" Variant="Variant.Text">Eclipse IDE</MudChip>
+            <MudChip Href="https://www.jetbrains.com/pycharm/" Variant="Variant.Text">PyCharm</MudChip>
+            <MudChip Href="https://www.microsoft.com/en-us/windows?r=1" Variant="Variant.Text">Microsoft Windows</MudChip>
+            <MudChip Href="https://www.apple.com/macos/ventura/" Variant="Variant.Text">MacOS X</MudChip>
+            <MudChip Href="https://www.linux.org/" Variant="Variant.Text">GNU/Linux</MudChip>
+                </div>
+                <MudMenu Class="mt-4" Label="SEE WHERE THOSE SKILLS WERE USED" Variant="Variant.Filled" StartIcon="@Icons.Material.Filled.Apps" Color="Color.Dark">
+                    <MudMenuItem Href="Experience">Experience</MudMenuItem>
+                    <MudMenuItem  Href="Studio">Studio Projects</MudMenuItem>
+                    <MudMenuItem Href="Hackhathons">Hackathon Projects</MudMenuItem>
+                    <MudMenuItem Href="Personal">Personal Projects</MudMenuItem>
+                </MudMenu>
+                </MudCard>
+                <MudCard Elevation="2" Class="mt-4 pa-4">
+                    <MudText Class="mb-2"><strong>My Coursework</strong></MudText>
+                    <div>
+            <MudChip Href="http://catalog.umd.umich.edu/undergraduate/coursesaz/engr/" Label="true">ENGR 399 - Experiential Honors Professional Practice</MudChip>
+            <MudChip Href="http://catalog.umd.umich.edu/undergraduate/coursesaz/cis/" Label="true">CIS 476 - Software Architecture and Design Patterns</MudChip>
+            <MudChip Href="http://catalog.umd.umich.edu/undergraduate/coursesaz/cis/" Label="true">CIS 435 - Web Technology</MudChip>
+            <MudChip Href="http://catalog.umd.umich.edu/undergraduate/coursesaz/cis/" Label="true">CIS 422 - Massive Data Management</MudChip>
+            <MudChip Href="http://catalog.umd.umich.edu/undergraduate/coursesaz/cis/" Label="true">CIS 376 - Software Engineering II</MudChip>
+            <MudChip Href="http://catalog.umd.umich.edu/undergraduate/coursesaz/cis/" Label="true">CIS 375 - Software Engineering I</MudChip>
+            <MudChip Href="http://catalog.umd.umich.edu/undergraduate/coursesaz/cis/" Label="true">CIS 350 - Data Structures and Algorithm Analysis</MudChip>
+            <MudChip Href="http://catalog.umd.umich.edu/undergraduate/coursesaz/cis/" Label="true">CIS 310 - Computer Organization and Assembly Language</MudChip>
+            <MudChip Href="http://catalog.umd.umich.edu/undergraduate/coursesaz/cis/" Label="true">CIS 306 - Discrete Structures II</MudChip>
+            <MudChip Href="http://catalog.umd.umich.edu/undergraduate/coursesaz/cis/" Label="true">CIS 297 - Introduction to C Sharp</MudChip>
+            <MudChip Href="http://catalog.umd.umich.edu/undergraduate/coursesaz/cis/" Label="true">CIS 285 - Software Engineering Tools</MudChip>
+            <MudChip Href="http://catalog.umd.umich.edu/undergraduate/coursesaz/cis/" Label="true">CIS 275 - Discrete Structures I</MudChip>
+            <MudChip Href="http://catalog.umd.umich.edu/undergraduate/coursesaz/cis/" Label="true">CIS 200 - Computer Science II</MudChip>
+            <MudChip Href="http://catalog.umd.umich.edu/undergraduate/coursesaz/cis/" Label="true">CIS 150 - Computer Science I</MudChip>
+            <MudChip Href="http://catalog.umd.umich.edu/undergraduate/coursesaz/math/" Label="true">MATH 227 - Linear Algebra</MudChip>
+            <MudChip Href="http://catalog.umd.umich.edu/undergraduate/coursesaz/math/" Label="true">MATH 116 - Calculus II</MudChip>
+            <MudChip Href="http://catalog.umd.umich.edu/undergraduate/coursesaz/math/" Label="true">MATH 115 - Calculus I</MudChip>
+                    </div>
+                    <MudButton Class="mt-4" Href="Courses" Variant="Variant.Filled" StartIcon="@Icons.Material.Filled.School" Color="Color.Dark">SEE MORE COURSES</MudButton>
+                </MudCard>
+                <MudCard Elevation="2" Class="mt-4 pa-4">
+                    <MudText><strong>My Experience</strong></MudText>
+        <MudPaper Class="mt-2 pa-4">
+            <MudStack Row="true">
+                <MudAvatar Image="experience/uofm.jpg" Class="ml-2 mt-2 mb-2" Size="Size.Large" />
+                <MudStack Justify="Justify.Center" Spacing="0">
+                    <MudText><strong>Full Stack Developer at a Student Team</strong></MudText>
+                    <MudText Typo="Typo.button">CIS 376 Software Engineering II at UofM Dearborn | 4 Academic Credits</MudText>
+                    <MudText Typo="Typo.body2">May 2023 - August 2023</MudText>
+                    <MudText Typo="Typo.body2">Dearborn, MI</MudText>
+                    <MudText Class="mt-2"><li>Collaborated within a dynamic team of fellow students to create and deploy a comprehensive 
+                        web application aimed at facilitating expense 
+                        sharing among individuals and teams, while also streamlining the management of payments.</li></MudText>
+                    <MudText>
+                        <li>
+                            Utilized SQL for data querying, employed Entity Framework Core for database modeling and management, managed both front-end and back-end using C# and JavaScript,
+                            enhanced user experience with HTML, CSS, and the Blazor framework, including MudBlazor components, within the ASP.NET Core environment, rigorously tested the
+                            application using xUnit.net, and ensured version control and deployment through Git to platforms including Bitbucket and GitHub.
+                        </li>
+                    </MudText>
+                    <MudText>
+                        <li>
+                            Contributed to the project by spearheading the creation of essential components including Models, Database Context, Migrations, 
+                            Services, and Pages, while leading Unit tests, as well as actively engaging in collaborative bug fixing and documentation 
+                            efforts with fellow team members.
+                        </li>
+                    </MudText>
+                    <MudText><li>Attained a comprehensive understanding of software engineering theories through hands-on experience within a student team, 
+                        concurrently advancing expertise in database management, refining version control practices, 
+                        and honing skills in assigning user privileges</li></MudText>
+                </MudStack>
+            </MudStack>
+        </MudPaper>
+        <MudPaper Class="mt-2 mb-2 pa-4">
+            <MudStack Row="true">
+                <MudAvatar Image="experience/epitec.png" Class="ml-2 mt-2 mb-2" Size="Size.Large" />
+                <MudStack Justify="Justify.Center" Spacing="0">
+                    <MudText><strong>Software Developer Intern</strong></MudText>
+                    <MudText Typo="Typo.button">Epitec | Full-Time</MudText>
+                    <MudText Typo="Typo.body2">May 2022 - July 2022</MudText>
+                    <MudText Typo="Typo.body2">Southfield, MI</MudText>
+                    <MudText Class="mt-2"><li>Collaborated with the Application Security Team as a full-stack developer to create a web application that helps recruiters to assign tasks to their contractors.</li></MudText>
+                    <MudText>
+                        <li>
+                            Created pages and components by creating shared models to specify which data to be managed using C#, writing complex SQL queries to manage relevant data in the database using RepoDB, replacing MVC controllers with Ardalis endpoints for clients to perform CRUD operations using C#,
+                            testing each endpoint with Swagger, Postman, and xUnit to make sure whether the API is working using JSON, creating HTTP requests for each endpoint to let the program perform CRUD operations using HttpClient and C#, creating services and request handlers to trigger endpoints by the Blazor app using HttpClient and C#
+                            and creating Blazor forms with MudBlazor components to provide a dynamic user experience using HTML, CSS, and C#.
+                        </li>
+                    </MudText>
+                    <MudText><li>Gained knowledge of Entity Framework Core, ASP.NET Core, RepoDB, ASP.NET MVC, Ardalis Endpoints, Swagger, Postman, xUnit, JSON, HttpClient, MudBlazor, and Blazor.</li></MudText>
+                </MudStack>
+            </MudStack>
+        </MudPaper>
+    <MudButton Class="mt-4" Href="Experience" Variant="Variant.Filled" StartIcon="@Icons.Material.Filled.Work" Color="Color.Dark">SEE MORE EXPERIENCE</MudButton>
+                    </MudCard>
+                <MudCard Elevation="2" Class="mt-4 pa-4">
+                    <MudText><strong>My Projects</strong></MudText>
+                    <MudPaper Class="mt-2 pa-4">
+        <MudStack Row="true">
+            <MudImage Src="projects/detroit.jpg" Width="350" Height="190" Elevation="25" Class="rounded-lg ma-4 ml-2 mt-2 mb-2"/>
+            <MudStack Justify="Justify.Center" Spacing="0">
+                <MudText Typo="Typo.body1"><h1><strong>Project Detroit</strong></h1></MudText>
+                <MudText Typo="Typo.body2">Academic Project</MudText>
+                <MudText Typo="Typo.button">August 18th 2023</MudText>
+                <MudButton Class="mt-4" Href="Academic" Variant="Variant.Filled" StartIcon="@Icons.Material.Filled.Info" Color="Color.Error">LEARN MORE ABOUT PROJECT DETROIT</MudButton>
+            </MudStack>
+        </MudStack>
+    </MudPaper>
+        <MudPaper Class="mt-2 pa-4">
+            <MudStack Row="true">
+                <MudImage Src="projects/selfQuiz.jpg" Width="350" Height="190" Elevation="25" Class="rounded-lg ma-4 ml-2 mt-2 mb-2" />
+                <MudStack Justify="Justify.Center" Spacing="0">
+                    <MudText Typo="Typo.body1"><h1><strong>Self Quiz by X27</strong></h1></MudText>
+                    <MudText Typo="Typo.body2">Personal Project</MudText>
+                    <MudText Typo="Typo.button">June 26th 2023</MudText>
+                    <MudButton Class="mt-4" Href="Personal" Variant="Variant.Filled" StartIcon="@Icons.Material.Filled.Info" Color="Color.Dark">LEARN MORE ABOUT SELF QUIZ BY X27</MudButton>
+                </MudStack>
+            </MudStack>
+        </MudPaper>
+    <MudMenu Class="mt-4" Label="SEE MORE PROJECTS" Variant="Variant.Filled" StartIcon="@Icons.Material.Filled.Apps" Color="Color.Dark">
+            <MudMenuItem Href="Academic">Academic Projects</MudMenuItem>
+        <MudMenuItem  Href="Studio">Studio Projects</MudMenuItem>
+    <MudMenuItem Href="Hackhathons">Hackathons</MudMenuItem>
+    <MudMenuItem Href="Personal">Personal Projects</MudMenuItem>
+</MudMenu>
+    </MudCard>
+                <MudCard Elevation="2" Class="mt-4 pa-4">
+                    <MudText><strong>My Honors and Distinctions</strong></MudText>
+                <MudPaper Class="pa-4 mt-2">
+                <MudTimeline>
+                <MudTimelineItem Color="Color.Success" Size="Size.Small">
+                    <ItemOpposite>
+                        <MudText Color="Color.Success" Typo="Typo.h5">December 2023</MudText>
+                    </ItemOpposite>
+                    <ItemContent>
+                        <MudText Color="Color.Success" Typo="Typo.h6" GutterBottom="true">Dean`s List</MudText>
+                        <MudText>University of Michigan-Dearborn</MudText>
+                    </ItemContent>
+                </MudTimelineItem>
+                <MudTimelineItem Color="Color.Info" Size="Size.Small">
+        <ItemOpposite>
+            <MudText Color="Color.Info" Typo="Typo.h5">January 2021 - Present</MudText>
+        </ItemOpposite>
+        <ItemContent>
+            <MudText Color="Color.Info" Typo="Typo.h6" GutterBottom="true">International Student Scholarship</MudText>
+            <MudText>University of Michigan-Dearborn</MudText>
+        </ItemContent>
+    </MudTimelineItem>
+    <MudTimelineItem Color="Color.Success" Size="Size.Small">
+        <ItemOpposite>
+            <MudText Color="Color.Success" Typo="Typo.h5">December 2020</MudText>
+        </ItemOpposite>
+        <ItemContent>
+            <MudText Color="Color.Success" Typo="Typo.h6" GutterBottom="true">Dean`s List</MudText>
+            <MudText>Eastern Michigan University</MudText>
+        </ItemContent>
+    </MudTimelineItem>
+    <MudTimelineItem Color="Color.Success" Size="Size.Small">
+        <ItemOpposite>
+            <MudText Color="Color.Success" Typo="Typo.h5">May 2020</MudText>
+        </ItemOpposite>
+        <ItemContent>
+            <MudText Color="Color.Success" Typo="Typo.h6" GutterBottom="true">Dean`s List</MudText>
+            <MudText>Eastern Michigan University</MudText>
+        </ItemContent>
+    </MudTimelineItem>
+</MudTimeline>
+</MudPaper>
+<MudButton Class="mt-4" Href="Awards" Variant="Variant.Filled" StartIcon="@Icons.Material.Filled.Approval" Color="Color.Dark">SEE MORE AWARDS</MudButton>
+</MudCard>
+                <MudCard Elevation="2" Class="mt-4 pa-4">
+                    <MudText><strong>My Certificates</strong></MudText>
+                    <MudStack Class="mt-4">
+    <MudPaper>
+        <MudStack Row="true">
+            <MudAvatar Image="certificates/osd.jpg" Class="ml-2 mt-2 mb-2" Size="Size.Large" />
+            <MudStack Justify="Justify.Center" Spacing="0">
+                <MudText Typo="Typo.body1">Certificate of Achievement</MudText>
+                <MudText Typo="Typo.body2">Automative Manufacturers Association</MudText>
+                <MudText Typo="Typo.button">July 2021</MudText>
+            </MudStack>
+        </MudStack>
+        </MudPaper>
+        <MudPaper>
+        <MudStack Row="true">
+            <MudAvatar Image="certificates/pearson.png" Class="ml-2 mt-2 mb-2" Size="Size.Large" />
+            <MudStack Justify="Justify.Center" Spacing="0">
+                <MudText Typo="Typo.body1">EdExcel Certificate</MudText>
+                <MudText Typo="Typo.body2">Pearson</MudText>
+                <MudText Typo="Typo.button">May 2016</MudText>
+            </MudStack>
+        </MudStack>
+    </MudPaper>
+    <MudPaper>
+        <MudStack Row="true">
+            <MudAvatar Image="certificates/swiss.jpg" Class="ml-2 mt-2 mb-2" Size="Size.Large" />
+            <MudStack Justify="Justify.Center" Spacing="0">
+                <MudText Typo="Typo.body1">Business Management Certificate</MudText>
+                <MudText Typo="Typo.body2">Swiss Education Group</MudText>
+                <MudText Typo="Typo.button">March 2016</MudText>
+            </MudStack>
+        </MudStack>
+    </MudPaper>
+    </MudStack>
+     <MudButton Class="mt-4" Href="Certificates" Variant="Variant.Filled" StartIcon="@Icons.Material.Filled.CardMembership" Color="Color.Dark">SEE MORE CERTIFICATES</MudButton>
+    </MudCard>
+    <MudCard Elevation="2" Class="mt-4 pa-4" >
+        <MudText><strong>Additional Highlights</strong></MudText>
+    <MudExpansionPanels Class="mt-4">
+    <MudExpansionPanel Text="Languages" MaxHeight="150">
+        <li>English</li>
+        <li>German</li>
+        <li>Turkish</li>
+    </MudExpansionPanel>
+    <MudExpansionPanel Text="Organizations" MaxHeight="150">
+        <li>WolverineSoft</li>
+        <li>Developers of Dearborn</li>
+        <li>Google Student Developers Club at UM-Dearborn</li>
+        <li>Association for Computing Machinery</li>
+        <li>Dearborn Campus Engineers</li>
+    </MudExpansionPanel>
+    <MudExpansionPanel Text="Miscellaneous" MaxHeight="150">
+        Alumni of Alpha Phi Omega - National Service Fraternity
+    </MudExpansionPanel>
+    </MudExpansionPanels>
+    <MudButton Class="mt-4" Href="Extras" Variant="Variant.Filled" StartIcon="@Icons.Material.Filled.SportsBasketball" Color="Color.Dark">SEE MORE ABOUT ME</MudButton>
+    </MudCard>
+</MudPaper>
+@code {
+    private bool arrows = true;
+    private bool bullets = true;
+    private bool autocycle = true;
+    private Transition transition = Transition.Slide;
+}

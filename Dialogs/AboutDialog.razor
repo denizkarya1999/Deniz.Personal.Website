@@ -1,0 +1,31 @@
+﻿@inject NavigationManager _navigationManager
+
+<MudDialog>
+    <DialogContent>
+        <p><b>Project Name:</b> The Official Website of Deniz K Acikbas (Project X27)</p>
+        <p><b>Version:</b> 2.00</p>
+        <p><b>Edition:</b> Portfolio</p>
+        <p><b>Release Date:</b> August 29th 2023</p>
+        <p><b>Created by:</b> Deniz K. Acikbas</p>
+        <p><b>Technologies:</b></p>
+        <MudChip Variant="Variant.Text" Href="https://www.w3schools.com/html/html_css.asp" Color="Color.Info">HTML/CSS</MudChip>
+        <MudChip Variant="Variant.Text" Href="https://www.javascript.com/" Color="Color.Error">JavaScript</MudChip>
+        <MudChip Variant="Variant.Text" Href="https://learn.microsoft.com/en-us/dotnet/csharp/" Color="Color.Warning">C#</MudChip>
+        <MudChip Variant="Variant.Text" Href="https://mudblazor.com/" Color="Color.Success">MudBlazor</MudChip>
+        <MudChip Variant="Variant.Text" Href="https://learn.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core?view=aspnetcore-7.0" Color="Color.Default">ASP.NET Core</MudChip>
+    </DialogContent>
+    <DialogActions>
+         <MudButton Color="Color.Info" OnClick="SourceCode">Download Source Code</MudButton>
+        <MudButton Color="Color.Success" OnClick="Submit">Ok</MudButton>
+    </DialogActions>
+</MudDialog>
+@code {
+    [CascadingParameter] MudDialogInstance MudDialog { get; set; }
+
+    void Submit() => MudDialog.Close(DialogResult.Ok(true));
+
+    private void SourceCode()
+    {
+        _navigationManager.NavigateTo("https://github.com/denizkarya1999/Deniz.Personal.Website");
+    }
+}

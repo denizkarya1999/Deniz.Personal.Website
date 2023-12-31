@@ -1,0 +1,309 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\bin\\Debug\\net6.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\obj\\Debug\\net6.0\\build-gz\\qFONJ9BA.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\certificates\\osd.jpg",
+      "PackagePath": "staticwebassets\\certificates\\osd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\certificates\\pearson.png",
+      "PackagePath": "staticwebassets\\certificates\\pearson.png"
+    },
+    {
+      "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\certificates\\swiss.jpg",
+      "PackagePath": "staticwebassets\\certificates\\swiss.jpg"
+    },
+    {
+      "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\dev-27.png",
+      "PackagePath": "staticwebassets\\dev-27.png"
+    },
+    {
+      "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\drawings\\Derby.jpg",
+      "PackagePath": "staticwebassets\\drawings\\Derby.jpg"
+    },
+    {
+      "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\drawings\\LasPalermos.jpg",
+      "PackagePath": "staticwebassets\\drawings\\LasPalermos.jpg"
+    },
+    {
+      "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\drawings\\Sheffield.jpg",
+      "PackagePath": "staticwebassets\\drawings\\Sheffield.jpg"
+    },
+    {
+      "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\drawings\\USBorder.jpg",
+      "PackagePath": "staticwebassets\\drawings\\USBorder.jpg"
+    },
+    {
+      "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\drawings\\Yomoha.jpg",
+      "PackagePath": "staticwebassets\\drawings\\Yomoha.jpg"
+    },
+    {
+      "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\experience\\dwl.png",
+      "PackagePath": "staticwebassets\\experience\\dwl.png"
+    },
+    {
+      "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\experience\\epitec.png",
+      "PackagePath": "staticwebassets\\experience\\epitec.png"
+    },
+    {
+      "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\experience\\uofm.jpg",
+      "PackagePath": "staticwebassets\\experience\\uofm.jpg"
+    },
+    {
+      "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\experience\\wolverinesoft.png",
+      "PackagePath": "staticwebassets\\experience\\wolverinesoft.png"
+    },
+    {
+      "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\index-slides\\Picture.jpg",
+      "PackagePath": "staticwebassets\\index-slides\\Picture.jpg"
+    },
+    {
+      "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\index-slides\\afterwork.jpg",
+      "PackagePath": "staticwebassets\\index-slides\\afterwork.jpg"
+    },
+    {
+      "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\index-slides\\duringwork.jpg",
+      "PackagePath": "staticwebassets\\index-slides\\duringwork.jpg"
+    },
+    {
+      "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\index-slides\\epitec.jpg",
+      "PackagePath": "staticwebassets\\index-slides\\epitec.jpg"
+    },
+    {
+      "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\index-slides\\gettingready.jpg",
+      "PackagePath": "staticwebassets\\index-slides\\gettingready.jpg"
+    },
+    {
+      "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\languages\\USA.png",
+      "PackagePath": "staticwebassets\\languages\\USA.png"
+    },
+    {
+      "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\languages\\germany.png",
+      "PackagePath": "staticwebassets\\languages\\germany.png"
+    },
+    {
+      "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\languages\\turkey.jpg",
+      "PackagePath": "staticwebassets\\languages\\turkey.jpg"
+    },
+    {
+      "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\projects\\90_music.png",
+      "PackagePath": "staticwebassets\\projects\\90_music.png"
+    },
+    {
+      "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\projects\\assemblex.jpg",
+      "PackagePath": "staticwebassets\\projects\\assemblex.jpg"
+    },
+    {
+      "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\projects\\avalon.png",
+      "PackagePath": "staticwebassets\\projects\\avalon.png"
+    },
+    {
+      "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\projects\\bloom.jpg",
+      "PackagePath": "staticwebassets\\projects\\bloom.jpg"
+    },
+    {
+      "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\projects\\bus.png",
+      "PackagePath": "staticwebassets\\projects\\bus.png"
+    },
+    {
+      "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\projects\\calculator.png",
+      "PackagePath": "staticwebassets\\projects\\calculator.png"
+    },
+    {
+      "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\projects\\children_market.png",
+      "PackagePath": "staticwebassets\\projects\\children_market.png"
+    },
+    {
+      "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\projects\\covid.png",
+      "PackagePath": "staticwebassets\\projects\\covid.png"
+    },
+    {
+      "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\projects\\currency.png",
+      "PackagePath": "staticwebassets\\projects\\currency.png"
+    },
+    {
+      "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\projects\\dating.png",
+      "PackagePath": "staticwebassets\\projects\\dating.png"
+    },
+    {
+      "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\projects\\detroit.jpg",
+      "PackagePath": "staticwebassets\\projects\\detroit.jpg"
+    },
+    {
+      "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\projects\\episecurity.png",
+      "PackagePath": "staticwebassets\\projects\\episecurity.png"
+    },
+    {
+      "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\projects\\hirex.png",
+      "PackagePath": "staticwebassets\\projects\\hirex.png"
+    },
+    {
+      "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\projects\\husky.jpg",
+      "PackagePath": "staticwebassets\\projects\\husky.jpg"
+    },
+    {
+      "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\projects\\laborCost.jpg",
+      "PackagePath": "staticwebassets\\projects\\laborCost.jpg"
+    },
+    {
+      "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\projects\\math.png",
+      "PackagePath": "staticwebassets\\projects\\math.png"
+    },
+    {
+      "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\projects\\ontario.jpg",
+      "PackagePath": "staticwebassets\\projects\\ontario.jpg"
+    },
+    {
+      "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\projects\\password_generator.png",
+      "PackagePath": "staticwebassets\\projects\\password_generator.png"
+    },
+    {
+      "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\projects\\patientmanager.png",
+      "PackagePath": "staticwebassets\\projects\\patientmanager.png"
+    },
+    {
+      "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\projects\\player.png",
+      "PackagePath": "staticwebassets\\projects\\player.png"
+    },
+    {
+      "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\projects\\queer.png",
+      "PackagePath": "staticwebassets\\projects\\queer.png"
+    },
+    {
+      "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\projects\\safety.png",
+      "PackagePath": "staticwebassets\\projects\\safety.png"
+    },
+    {
+      "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\projects\\selfQuiz.jpg",
+      "PackagePath": "staticwebassets\\projects\\selfQuiz.jpg"
+    },
+    {
+      "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\projects\\std.png",
+      "PackagePath": "staticwebassets\\projects\\std.png"
+    },
+    {
+      "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\projects\\story.png",
+      "PackagePath": "staticwebassets\\projects\\story.png"
+    },
+    {
+      "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\projects\\travelery.png",
+      "PackagePath": "staticwebassets\\projects\\travelery.png"
+    },
+    {
+      "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\projects\\word.png",
+      "PackagePath": "staticwebassets\\projects\\word.png"
+    },
+    {
+      "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\projects\\xase.png",
+      "PackagePath": "staticwebassets\\projects\\xase.png"
+    },
+    {
+      "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\projects\\xenon.png",
+      "PackagePath": "staticwebassets\\projects\\xenon.png"
+    },
+    {
+      "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\projects\\xoin.png",
+      "PackagePath": "staticwebassets\\projects\\xoin.png"
+    },
+    {
+      "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\projects\\xonut.png",
+      "PackagePath": "staticwebassets\\projects\\xonut.png"
+    },
+    {
+      "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\projects\\xove.png",
+      "PackagePath": "staticwebassets\\projects\\xove.png"
+    },
+    {
+      "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\projects\\xusiness.jpg",
+      "PackagePath": "staticwebassets\\projects\\xusiness.jpg"
+    },
+    {
+      "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\projects\\youngInvestors.png",
+      "PackagePath": "staticwebassets\\projects\\youngInvestors.png"
+    },
+    {
+      "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\visits\\AnnArbor.jpg",
+      "PackagePath": "staticwebassets\\visits\\AnnArbor.jpg"
+    },
+    {
+      "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\visits\\LosAngeles.jpg",
+      "PackagePath": "staticwebassets\\visits\\LosAngeles.jpg"
+    },
+    {
+      "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\visits\\chicago.jpg",
+      "PackagePath": "staticwebassets\\visits\\chicago.jpg"
+    },
+    {
+      "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\visits\\datca.jpg",
+      "PackagePath": "staticwebassets\\visits\\datca.jpg"
+    },
+    {
+      "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\visits\\davos.jpg",
+      "PackagePath": "staticwebassets\\visits\\davos.jpg"
+    },
+    {
+      "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\visits\\detroit.jpg",
+      "PackagePath": "staticwebassets\\visits\\detroit.jpg"
+    },
+    {
+      "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\visits\\london.jpg",
+      "PackagePath": "staticwebassets\\visits\\london.jpg"
+    },
+    {
+      "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\visits\\milan.jpg",
+      "PackagePath": "staticwebassets\\visits\\milan.jpg"
+    },
+    {
+      "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\visits\\munich.jpg",
+      "PackagePath": "staticwebassets\\visits\\munich.jpg"
+    },
+    {
+      "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\visits\\newyork.jpg",
+      "PackagePath": "staticwebassets\\visits\\newyork.jpg"
+    },
+    {
+      "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\visits\\sandiego.jpg",
+      "PackagePath": "staticwebassets\\visits\\sandiego.jpg"
+    },
+    {
+      "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\visits\\zurich.jpg",
+      "PackagePath": "staticwebassets\\visits\\zurich.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Deniz.Personal.Website.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Deniz.Personal.Website.props",
+      "PackagePath": "build\\Deniz.Personal.Website.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Deniz.Personal.Website.props",
+      "PackagePath": "buildMultiTargeting\\Deniz.Personal.Website.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Deniz.Personal.Website.props",
+      "PackagePath": "buildTransitive\\Deniz.Personal.Website.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

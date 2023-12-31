@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA9LQbN3vnbUio8ExgSBJsWwAAAAACAAAAAAAQZgAAAAEAACAAAABM7wiR6q5YbWLYpyBb7iaB9VZecZK36u2Z/pWJPPTrOwAAAAAOgAAAAAIAACAAAACRDFgFg92kjtYHAzTzM2TSaLjBqKSMPASLGl1uCPeVSoAAAADv0l5d6dI/owTkRNzu8ut/GeKmatRt4Lxav1ATbOvArjsg8N11J79WKORPNxzYi6J3OjbBhUiKs0n1LrV5LDFYVV5DQvBLgD5slpYMU/jTYkpRnWEHKg9JG1nKuqpWO+fuJftibP/hEZ88F1MukVuzWJ4sP4DEPYKSO5HeU+SilUAAAAAFfue9MoIdZtfR8g6yFiJ4kS3zkyoFKQ9wT7f/f9bLHZu7hPEglM2HjMv2hF1p0KxGMvc3DEVX0PaOdJPJRmgN</EncryptedPassword>
+    <_PublishTargetUrl>ftp://waws-prod-bay-207.ftp.azurewebsites.windows.net/site/wwwroot</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Pages/Awards.razor">
+      <publishTime>07/07/2022 22:58:48</publishTime>
+    </File>
+    <File Include="Pages/Certificates.razor">
+      <publishTime>07/07/2022 22:58:50</publishTime>
+    </File>
+    <File Include="Pages/Contact.razor">
+      <publishTime>07/09/2022 18:51:12</publishTime>
+    </File>
+    <File Include="Pages/Counter.razor">
+      <publishTime>07/02/2022 17:52:28</publishTime>
+    </File>
+    <File Include="Pages/Courses.razor">
+      <publishTime>01/14/2023 16:12:32</publishTime>
+    </File>
+    <File Include="Pages/Experience.razor">
+      <publishTime>07/10/2022 23:02:26</publishTime>
+    </File>
+    <File Include="Pages/Extras.razor">
+      <publishTime>01/14/2023 16:13:42</publishTime>
+    </File>
+    <File Include="Pages/FetchData.razor">
+      <publishTime>07/02/2022 16:36:12</publishTime>
+    </File>
+    <File Include="Pages/Index.razor">
+      <publishTime>01/14/2023 16:16:40</publishTime>
+    </File>
+    <File Include="Pages/Projects/Hackathons.razor">
+      <publishTime>07/10/2022 16:02:26</publishTime>
+    </File>
+    <File Include="Pages/Projects/Personal.razor">
+      <publishTime>08/25/2022 13:45:45</publishTime>
+    </File>
+    <File Include="Pages/Projects/Studio.razor">
+      <publishTime>07/10/2022 15:52:48</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
