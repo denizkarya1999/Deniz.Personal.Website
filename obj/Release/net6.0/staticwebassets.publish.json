@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "P4+9vFJlrIt7mzUL5WMVip6MFHEm2OQxdM9PshaJX4o=",
+  "Hash": "+/zMLm+iv/YiNx8MgzbH68UV4g78E6nH2cN7yikWZ+U=",
   "Source": "Deniz.Personal.Website",
   "BasePath": "/",
   "Mode": "Root",
@@ -2975,6 +2975,23 @@
       "OriginalItemSpec": "wwwroot\\drawings\\Yomoha.jpg"
     },
     {
+      "Identity": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\experience\\aat3d.jpg",
+      "SourceId": "Deniz.Personal.Website",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "experience/aat3d.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\experience\\aat3d.jpg"
+    },
+    {
       "Identity": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\experience\\dwl.png",
       "SourceId": "Deniz.Personal.Website",
       "SourceType": "Discovered",
@@ -3672,6 +3689,40 @@
       "OriginalItemSpec": "wwwroot\\projects\\word.png"
     },
     {
+      "Identity": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\projects\\xalxoid.png",
+      "SourceId": "Deniz.Personal.Website",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "projects/xalxoid.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\projects\\xalxoid.png"
+    },
+    {
+      "Identity": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\projects\\xarithmetics.png",
+      "SourceId": "Deniz.Personal.Website",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "projects/xarithmetics.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\projects\\xarithmetics.png"
+    },
+    {
       "Identity": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\projects\\xase.png",
       "SourceId": "Deniz.Personal.Website",
       "SourceType": "Discovered",
@@ -3687,6 +3738,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\projects\\xase.png"
+    },
+    {
+      "Identity": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\projects\\xat.png",
+      "SourceId": "Deniz.Personal.Website",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "projects/xat.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\projects\\xat.png"
     },
     {
       "Identity": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\projects\\xenon.png",
@@ -3755,6 +3823,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\projects\\xove.png"
+    },
+    {
+      "Identity": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\projects\\xumorous.png",
+      "SourceId": "Deniz.Personal.Website",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "projects/xumorous.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\projects\\xumorous.png"
     },
     {
       "Identity": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\projects\\xusiness.jpg",

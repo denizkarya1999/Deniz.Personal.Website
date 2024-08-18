@@ -45,6 +45,10 @@
       "PackagePath": "staticwebassets\\drawings\\Yomoha.jpg"
     },
     {
+      "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\experience\\aat3d.jpg",
+      "PackagePath": "staticwebassets\\experience\\aat3d.jpg"
+    },
+    {
       "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\experience\\dwl.png",
       "PackagePath": "staticwebassets\\experience\\dwl.png"
     },
@@ -73,12 +77,20 @@
       "PackagePath": "staticwebassets\\index-slides\\afterwork.jpg"
     },
     {
+      "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\index-slides\\at-uofm.JPEG",
+      "PackagePath": "staticwebassets\\index-slides\\at-uofm.JPEG"
+    },
+    {
       "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\index-slides\\duringwork.jpg",
       "PackagePath": "staticwebassets\\index-slides\\duringwork.jpg"
     },
     {
       "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\index-slides\\epitec.jpg",
       "PackagePath": "staticwebassets\\index-slides\\epitec.jpg"
+    },
+    {
+      "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\index-slides\\first_day_aat3d.JPEG",
+      "PackagePath": "staticwebassets\\index-slides\\first_day_aat3d.JPEG"
     },
     {
       "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\index-slides\\gettingready.jpg",
@@ -149,6 +161,10 @@
       "PackagePath": "staticwebassets\\projects\\episecurity.png"
     },
     {
+      "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\projects\\falcon.png",
+      "PackagePath": "staticwebassets\\projects\\falcon.png"
+    },
+    {
       "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\projects\\hirex.png",
       "PackagePath": "staticwebassets\\projects\\hirex.png"
     },
@@ -209,8 +225,20 @@
       "PackagePath": "staticwebassets\\projects\\word.png"
     },
     {
+      "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\projects\\xalxoid.png",
+      "PackagePath": "staticwebassets\\projects\\xalxoid.png"
+    },
+    {
+      "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\projects\\xarithmetics.png",
+      "PackagePath": "staticwebassets\\projects\\xarithmetics.png"
+    },
+    {
       "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\projects\\xase.png",
       "PackagePath": "staticwebassets\\projects\\xase.png"
+    },
+    {
+      "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\projects\\xat.png",
+      "PackagePath": "staticwebassets\\projects\\xat.png"
     },
     {
       "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\projects\\xenon.png",
@@ -227,6 +255,14 @@
     {
       "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\projects\\xove.png",
       "PackagePath": "staticwebassets\\projects\\xove.png"
+    },
+    {
+      "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\projects\\xrigonometry.png",
+      "PackagePath": "staticwebassets\\projects\\xrigonometry.png"
+    },
+    {
+      "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\projects\\xumorous.png",
+      "PackagePath": "staticwebassets\\projects\\xumorous.png"
     },
     {
       "Id": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\projects\\xusiness.jpg",
