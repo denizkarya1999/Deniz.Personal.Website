@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+/zMLm+iv/YiNx8MgzbH68UV4g78E6nH2cN7yikWZ+U=",
+  "Hash": "EzZThLjLHGudVeWPLjXz6UnZ/vQqUQH8X8wITmbuKQ8=",
   "Source": "Deniz.Personal.Website",
   "BasePath": "/",
   "Mode": "Root",
@@ -3111,6 +3111,23 @@
       "OriginalItemSpec": "wwwroot\\index-slides\\afterwork.jpg"
     },
     {
+      "Identity": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\index-slides\\at-uofm.JPEG",
+      "SourceId": "Deniz.Personal.Website",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "index-slides/at-uofm.JPEG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index-slides\\at-uofm.JPEG"
+    },
+    {
       "Identity": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\index-slides\\duringwork.jpg",
       "SourceId": "Deniz.Personal.Website",
       "SourceType": "Discovered",
@@ -3143,6 +3160,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index-slides\\epitec.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\index-slides\\first_day_aat3d.JPEG",
+      "SourceId": "Deniz.Personal.Website",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "index-slides/first_day_aat3d.JPEG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index-slides\\first_day_aat3d.JPEG"
     },
     {
       "Identity": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\index-slides\\gettingready.jpg",
@@ -3432,6 +3466,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\projects\\episecurity.png"
+    },
+    {
+      "Identity": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\projects\\falcon.png",
+      "SourceId": "Deniz.Personal.Website",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "projects/falcon.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\projects\\falcon.png"
     },
     {
       "Identity": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\projects\\hirex.png",
@@ -3823,6 +3874,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\projects\\xove.png"
+    },
+    {
+      "Identity": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\projects\\xrigonometry.png",
+      "SourceId": "Deniz.Personal.Website",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "projects/xrigonometry.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\projects\\xrigonometry.png"
     },
     {
       "Identity": "C:\\Users\\deniz\\source\\repos\\Deniz.PersonalWebsite\\wwwroot\\projects\\xumorous.png",

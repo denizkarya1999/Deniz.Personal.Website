@@ -7,7 +7,7 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "Deniz.Personal.Website.dll": "sha256-GNfRuA1UrWgR1cEngCMRdgnaYEqvA+2v2cHGLTM4ny4=",
+      "Deniz.Personal.Website.dll": "sha256-NtAk4XI2wyqtRTgnTnBWsTPA9U8LS1e1vl5a\/dvuMXk=",
       "Microsoft.AspNetCore.Components.dll": "sha256-cC6\/Ct2OINhyADG5rQqh2KlLJy1bsHXl6fXJou1DdKc=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-TPS\/RSZ2a6s1dGLlyge7lx6YaRLmbSsXVuEK9\/vRLXU=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-riACI67OpJljuD8Dvhk0IBGhAib6tMzbUpAUcHE48Fg=",
