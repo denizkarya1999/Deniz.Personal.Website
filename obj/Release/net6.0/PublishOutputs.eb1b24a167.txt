@@ -1,0 +1,2 @@
+C:\Users\deniz\source\repos\Deniz.PersonalWebsite\obj\Release\net6.0\browser-wasm\PubTmp\Out\emcc-props.json
+C:\Users\deniz\source\repos\Deniz.PersonalWebsite\obj\Release\net6.0\browser-wasm\PubTmp\Out\web.config
