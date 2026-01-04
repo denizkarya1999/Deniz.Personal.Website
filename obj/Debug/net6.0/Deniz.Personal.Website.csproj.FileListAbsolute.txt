@@ -824,6 +824,6 @@ C:\Users\deniz\source\repos\Deniz.PersonalWebsite\obj\Debug\net6.0\staticwebasse
 C:\Users\deniz\source\repos\Deniz.PersonalWebsite\obj\Debug\net6.0\swae.build.ex.cache
 C:\Users\deniz\source\repos\Deniz.PersonalWebsite\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
 C:\Users\deniz\source\repos\Deniz.PersonalWebsite\obj\Debug\net6.0\Deniz.Pe.BA0ED473.Up2Date
-C:\Users\deniz\source\repos\Deniz.PersonalWebsite\obj\Debug\net6.0\compressed\f59qymgzff-{0}-icrbq5hwz3-icrbq5hwz3.gz
-C:\Users\deniz\source\repos\Deniz.PersonalWebsite\obj\Debug\net6.0\compressed\2yxaioz4qi-{0}-gsfqtf5zev-gsfqtf5zev.gz
-C:\Users\deniz\source\repos\Deniz.PersonalWebsite\obj\Debug\net6.0\compressed\c0zqgvw9qy-{0}-33mmorm8nx-33mmorm8nx.gz
+C:\Users\deniz\source\repos\Deniz.PersonalWebsite\obj\Debug\net6.0\compressed\f59qymgzff-{0}-jbhxqspy0s-jbhxqspy0s.gz
+C:\Users\deniz\source\repos\Deniz.PersonalWebsite\obj\Debug\net6.0\compressed\2yxaioz4qi-{0}-fexywt2unt-fexywt2unt.gz
+C:\Users\deniz\source\repos\Deniz.PersonalWebsite\obj\Debug\net6.0\compressed\c0zqgvw9qy-{0}-cpe8bdoifk-cpe8bdoifk.gz

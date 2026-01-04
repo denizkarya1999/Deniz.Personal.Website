@@ -819,11 +819,11 @@ C:\Users\deniz\source\repos\Deniz.PersonalWebsite\obj\Release\net6.0\compressed\
 C:\Users\deniz\source\repos\Deniz.PersonalWebsite\obj\Release\net6.0\compressed\izbf37sgot-{0}-1g6dzeoluu-1g6dzeoluu.gz
 C:\Users\deniz\source\repos\Deniz.PersonalWebsite\obj\Release\net6.0\compressed\9lcxmnh0a5-{0}-xxwcmr94me-xxwcmr94me.gz
 C:\Users\deniz\source\repos\Deniz.PersonalWebsite\obj\Release\net6.0\compressed\7gzqsku524-{0}-pf4yq2tlc6-pf4yq2tlc6.gz
-C:\Users\deniz\source\repos\Deniz.PersonalWebsite\obj\Release\net6.0\compressed\f59qymgzff-{0}-d0our9w2ym-d0our9w2ym.gz
-C:\Users\deniz\source\repos\Deniz.PersonalWebsite\obj\Release\net6.0\compressed\2yxaioz4qi-{0}-vhrws7hnle-vhrws7hnle.gz
-C:\Users\deniz\source\repos\Deniz.PersonalWebsite\obj\Release\net6.0\compressed\c0zqgvw9qy-{0}-chlcyb1771-chlcyb1771.gz
 C:\Users\deniz\source\repos\Deniz.PersonalWebsite\obj\Release\net6.0\staticwebassets.build.json.cache
 C:\Users\deniz\source\repos\Deniz.PersonalWebsite\obj\Release\net6.0\staticwebassets.build.endpoints.json
 C:\Users\deniz\source\repos\Deniz.PersonalWebsite\obj\Release\net6.0\swae.build.ex.cache
 C:\Users\deniz\source\repos\Deniz.PersonalWebsite\obj\Release\net6.0\staticwebassets.upToDateCheck.txt
 C:\Users\deniz\source\repos\Deniz.PersonalWebsite\obj\Release\net6.0\Deniz.Pe.BA0ED473.Up2Date
+C:\Users\deniz\source\repos\Deniz.PersonalWebsite\obj\Release\net6.0\compressed\f59qymgzff-{0}-mm4p3zgxlc-mm4p3zgxlc.gz
+C:\Users\deniz\source\repos\Deniz.PersonalWebsite\obj\Release\net6.0\compressed\2yxaioz4qi-{0}-s5g0umgcwk-s5g0umgcwk.gz
+C:\Users\deniz\source\repos\Deniz.PersonalWebsite\obj\Release\net6.0\compressed\c0zqgvw9qy-{0}-h36ehm9xff-h36ehm9xff.gz

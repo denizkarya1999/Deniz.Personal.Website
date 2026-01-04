@@ -1,7 +1,7 @@
 {
   "entryAssembly": "Deniz.Personal.Website",
   "resources": {
-    "hash": "sha256-2aYJiml3uLZW0pXmbS5dtRhLZ/4Yh+zc4jpMnUa9HXo=",
+    "hash": "sha256-7XpsX8ApHwReDWeLXG6f8w0DxhpYoIy6SAuBCgcMlws=",
     "runtime": {
       "dotnet.js": "sha256-pu7MO47B6So4jcW6iY2UI11lBZYz2EQnJKiYNsOpNJg=",
       "dotnet.timezones.blat": "sha256-vrFYQt55a4tGoDGoyRfjjGa1nSecx646RK78iTzPWCM=",
@@ -202,10 +202,10 @@
       "mscorlib.dll": "sha256-FHccFgM8rcGOQ8oacA4eEgiiOynHayVKyd2ICq3Bo4w=",
       "netstandard.dll": "sha256-D91viTBgwuzeuIOx1KgBYnoY0hl2IpcBu/zr22Fu0BU=",
       "System.Private.CoreLib.dll": "sha256-5FbWgChEgLPlYByi8VsHTisbCpgMNSbf95JK5dVOs50=",
-      "Deniz.Personal.Website.dll": "sha256-DRQCnx8aRj86Nr+DXXJWr7RTVRRIhqwFevzjnCSqvaM="
+      "Deniz.Personal.Website.dll": "sha256-rnIfF7jWcLEiC3gLMfLFexUb2cBASljisavj+STcEuM="
     },
     "pdb": {
-      "Deniz.Personal.Website.pdb": "sha256-MztUrMrdTAECui5JX4uOFoQnBWU0RWGIOQT/vWBacNg="
+      "Deniz.Personal.Website.pdb": "sha256-MLhIQGsqmHDL1XdavkaGPp3Jd+ulEhg3mNkS91bdMTQ="
     },
     "runtimeAssets": {
       "dotnet.wasm": {
